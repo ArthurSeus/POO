@@ -1,1 +1,1 @@
-Simple pokemon battle simulator.
+Simple pokemon battle simulator for an Object Oriented Programing class.
